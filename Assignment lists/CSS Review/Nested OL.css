@@ -1,0 +1,23 @@
+
+.oul {
+	list-style-type: upper-roman;
+}
+.pink {
+    
+    background-color: pink;
+}
+.mil {
+    list-style-type: upper-alpha;
+   
+}
+.blue {
+    
+    background-color: blue;
+}
+.inl {
+    list-style-type: numeric;
+}
+.red {
+    
+    background-color: red;
+}
